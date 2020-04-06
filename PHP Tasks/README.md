@@ -14,4 +14,4 @@ Create a FLAMES game using string functions and display the results with graphic
 
 #### Deadline - 14th March
 
-## Prvoide your usernames here - https://goo.gl/forms/C12S0JnRAjdoYoBB2
+## Provide your usernames here - https://goo.gl/forms/C12S0JnRAjdoYoBB2
